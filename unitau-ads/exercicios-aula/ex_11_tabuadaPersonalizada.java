@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TabuadaPersonalizada {
+public class ex_11_tabuadaPersonalizada {
     static void main() {
         System.out.println("Escolha um número entre 2 e 9.");
 

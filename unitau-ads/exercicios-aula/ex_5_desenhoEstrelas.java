@@ -1,4 +1,4 @@
-public class DesenhoEstrelas {
+public class ex_5_desenhoEstrelas {
     static void main() {
         for (int i =1; i<6; i++){
 

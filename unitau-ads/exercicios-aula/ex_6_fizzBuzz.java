@@ -1,4 +1,4 @@
-public class FizzBuzz {
+public class ex_6_fizzBuzz {
     public static void main(String[] args) {
         for (int i = 1; i <= 30; i++) {
             int m3 = i % 3;

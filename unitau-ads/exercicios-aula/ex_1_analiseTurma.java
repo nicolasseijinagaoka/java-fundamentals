@@ -1,4 +1,4 @@
-public class AnaliseTurma {
+public class ex_1_analiseTurma {
     static void main() {
         double[] N = {1.0, 10.0, 4.0, 2.0, 6.0};
         int aprovados = 0;

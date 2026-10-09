@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MeuPerfil {
+public class ex_8_meuPerfil {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

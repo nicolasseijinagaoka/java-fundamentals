@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class CalculadoraSimples {
+public class ex_4_calculadoraSimples {
     static void main() {
 
         System.out.print("Insira o 1° número: ");

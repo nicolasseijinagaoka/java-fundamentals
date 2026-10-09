@@ -1,4 +1,4 @@
-public class SomaAcumulada {
+public class ex_10_somaAcumulada {
     static void main() {
         for (int i = 0; i<101; i++){
             int conta = 1+i;

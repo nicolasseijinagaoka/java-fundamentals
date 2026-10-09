@@ -1,4 +1,4 @@
-public class Apresentacao {
+public class ex_2_apresentacao {
 //    classe do programa
     static void main() {
 //        inicio da função

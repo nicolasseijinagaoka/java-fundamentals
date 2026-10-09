@@ -1,4 +1,4 @@
-public class Sequencia {
+public class ex_9_sequencia {
     static void main() {
         for (int i = 1; i < 21; i++ ) {
             int par = i % 2;

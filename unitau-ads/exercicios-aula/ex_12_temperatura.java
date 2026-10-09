@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Temperatura {
+public class ex_12_temperatura {
     public static void main(String[] args) {
         System.out.print("Entre com o valor da temperatura: ");
         Scanner op = new Scanner(System.in);
